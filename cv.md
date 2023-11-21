@@ -3,7 +3,7 @@
 ## Información Personal
 - **Nombre:** Xacobo Barrera Cabodevila
 - **Correo Electrónico:** a23xacobobc@iessanclemente.net
-- **Github:** Xacobo23
+- **Github:** [Xacobo23](https://github.com/Xacobo23)
 
 ## Educación
 ### IES San Clemente
@@ -16,9 +16,9 @@
 
 - **Herramientas de Desarrollo:**
   - Git
-
-![Imagen del Proyecto](url_de_la_imagen.jpg)
-
+---
+![Imagen](panda.jpg)
+---
 ## Idiomas
 - Gallego
 - Español
